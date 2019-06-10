@@ -2,40 +2,7 @@
 
 [![Built with](https://img.shields.io/badge/Built_with-Cookiecutter_Django_Rest-F7B633.svg)](https://github.com/agconti/cookiecutter-django-rest)
 
-Collate ALL the Huntsville beers. Check out the project's [documentation](https://github.com/hsv-dot-beer/hsvdotbeer/wiki).
-
-## What is this?
-
-- It's a concept spearheaded by @mjcarroll, @drewbrew, and @drewmcdowell to
-make a one-stop-shop for all the Huntsville-area breweries, taprooms, and
-bottle shops.
-
-## I want my venue listed!
-
-First, three questions:
-1. Are you located within the city of Huntsville, the city of Madison, or
-   Madison County, Alabama (this includes smaller cities like Triana or
-   Owens Cross Roads)?
-2. Do you have at least 6 beer taps in regular use?
-3. Of those taps, are 50% or 5 taps, whichever is lower, typically featuring
-   beers made in Alabama or Middle Tennessee (we're pretty flexible here)?
-
-If the answer to all 3 of those is yes, great! If not, ask us anyway and we
-may be willing to grant you an exception. We're doing this in our spare time
-and don't have time to get every bar in Alabama signed up!
-
-Sign up for a free account at https://taplist.io/. Once you're in, create your
-taps and beers.
-
-At that point, contact us either via [Twitter](https://twitter.com/hsvdotbeer)
-or creating an issue here. We'll guide you through the process of creating a
-fake display that we'll use to get the info we need. It doesn't matter whether
-you want to use a chalkboard or a digital display; if you want to do the latter,
-you can simply create another display.
-
-If you want to have a digital display, you can use either a Fire TV Stick or
-a Raspberry Pi. They have great instructions for both at
-[their help site](https://taplist.io/help).
+Collate ALL the Huntsville beers.
 
 ## How do I get started?
 
