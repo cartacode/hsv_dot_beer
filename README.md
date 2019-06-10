@@ -59,11 +59,3 @@ pipenv run python manage.py runserver
 ```
 
 You'll need to set this up anyway if you're making migrations (i.e. modifying models).
-
-## Contributing and Community
-
-PRs are more than welcome.  As we get a better idea of what we need to do, we'll
-create issues that need fixing if you don't know where to start.  All
-contributors are required to follow the [Tech256 Code of Conduct](https://github.com/tech256/CoC).
-
-You can find us on the [Tech256 Slack](https://tech256.com) in the `#hsv_dot_beer` channel.
